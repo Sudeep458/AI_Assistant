@@ -50,7 +50,7 @@ To set up the project locally, follow these steps:
    NEWS_API_KEY=your_newsapi_key
    ```
    
-## Installation
+## Usage
 
 1. Run the application:
    ```bash
