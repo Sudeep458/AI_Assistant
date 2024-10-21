@@ -65,8 +65,8 @@ The AI Assistant uses voice recognition to capture user queries and then process
 
 ## Example Queries
 
-1. "What's the weather like in London?"
+1. "What's the weather like in Bengaluru?"
 2. "Give me today's top news."
-3. "Tell me about the weather in Tokyo."
+3. "Tell me about the weather in Yelahanka."
 
 
